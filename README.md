@@ -79,21 +79,21 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
-Original Data:
+##Original Data:
 ![D1](https://user-images.githubusercontent.com/94506182/200760286-33249055-5b86-4773-8ba7-31921250b84a.png)
-Label Encoder:
+##Label Encoder:
 ![m2](https://user-images.githubusercontent.com/94506182/200760520-d2c1f023-e840-460d-a342-b32e0027e262.png)
-X:
+##X:
 ![m3](https://user-images.githubusercontent.com/94506182/200760768-62a9ad2d-32ea-4f77-9e9f-cd897c27978f.png)
-Y:
+##Y:
 ![y](https://user-images.githubusercontent.com/94506182/200760906-359de198-2b13-4632-b526-a75f9f34d885.png)
-Y_prediction:
+##Y_prediction:
 ![yp](https://user-images.githubusercontent.com/94506182/200761051-203f3076-ec3a-465c-87ca-8bf168c6f2b9.png)
-Accuracy:
+##Accuracy:
 ![Acc](https://user-images.githubusercontent.com/94506182/200761179-2c75c938-f3aa-411c-8220-04576223ec3e.png)
-Cofusion:
+##Cofusion:
 ![AR](https://user-images.githubusercontent.com/94506182/200761284-c66d45e2-e29e-4b9a-ba85-eeae3d24dec8.png)
-Classification:
+##Classification:
 ![P0](https://user-images.githubusercontent.com/94506182/200761425-60962295-4c98-4df2-be6b-973b1a0e66c4.png)
 
 
